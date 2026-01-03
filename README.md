@@ -4,7 +4,7 @@ A clean, responsive landing page for a web development bootcamp built using **Bo
 
 ---
 
-![Project Preview](bootstrap-bootcamp-website-main/img/picture.jpeg)
+![Project Preview](img/picture.jpeg)
 
 ## 🚀 Features
 
